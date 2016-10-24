@@ -1,0 +1,2552 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UpdaterTest
+</name>
+</assembly>
+<members>
+<member name="P:UpdaterTest.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:UpdaterTest.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:UpdaterTest.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:UpdaterTest.masterDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:UpdaterTest.masterDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ARTStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.AuditTrailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CauseofDeathDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHWDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_GurdianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_ParentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientCriteriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientdetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientLongitudinalDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClustersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CoreServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CountyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DistrictDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EligibilityCriteriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EmploymentTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.FacilitiesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GoalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianLongitudinalDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HidingReasonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HIVStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentMainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentLongitudinalDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityListingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityMonitoringDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityNeedsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ProviderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.QueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.RelationshipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolLevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServicesProvidedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServiceStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceMonitoringDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceVisitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SubDomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tbl_monthsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.TblVulnerabilityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ARTStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_AuditTrailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CauseofDeathDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CHWDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientCriteriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientdetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_Clientdetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClustersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CoreServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DistrictDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_EmploymentTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_FacilitiesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_GoalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HidingReasonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HIVStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentMainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ParentDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityMonitoringDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityNeedsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ProviderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_RelationshipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolLevelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServicesProvidedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServiceStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceMonitoringDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceVisitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SubDomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_CHWIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_NeedsAssessmentIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_OVCIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_ParentIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_SSVIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserCBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserRightsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UsersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.VersionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.biodataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHVbyDISTRICTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCQueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needa_Analysis_FinalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needs_AnalysisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_benefits_summaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_BirthCertsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CHVNamesbyCBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Client_HivStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CSIPerformanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_domain_servicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Domain_SubdomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_she_needs_per_districtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_shelter_per_monthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_econ_edu_shelterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_EducationalSupportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_F1A_Priority_NeedsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_food_per_HH_needsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_GuardianDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HCBCClientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_needs_per_districtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_per_monthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_referalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_food_permonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_fooddomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Mother_of_AllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_permonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_peryearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVC_HIVStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCBioDataDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCbySexandDOBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCCountbyCBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCExitedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCIssuedBCertsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCNeedsAssessmentSupportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCRegisteredDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_ParentIDNumberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PEPFAR_GlobalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Protection_needsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_NeedsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_PermonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_RegisterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Sanitary_above9yrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_fatherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_guardianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_historyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_motherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SpecificServicesProvidedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SSM_SSVDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCBObyDistrictDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCountyBaselineDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_AddRootNodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_FetchOVCandParentNamesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_fetchspecificvisitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_PopulateOVCVisitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_SelectOVCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_AddRootNodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_FetchOVCandParentNamesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.rpt_schoolgoingovcsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SYNCOVCDATA_HQDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Validate_DurationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ARTStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.AuditTrailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CauseofDeathRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHWRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_GurdianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_ParentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientCriteriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientdetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientLongitudinalDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClustersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CoreServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CountyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DistrictRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EligibilityCriteriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EmploymentTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.FacilitiesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GoalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianLongitudinalDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HidingReasonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HIVStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentMainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentLongitudinalDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityListingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityMonitoringRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityNeedsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ProviderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.QueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.RelationshipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolLevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServicesProvidedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServiceStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceMonitoringRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceVisitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SubDomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tbl_monthsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.TblVulnerabilityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ARTStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_AuditTrailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CauseofDeathRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CHWRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientCriteriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientdetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_Clientdetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClustersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CoreServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DistrictRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_EmploymentTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_FacilitiesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_GoalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HidingReasonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HIVStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentMainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ParentDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityMonitoringRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityNeedsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ProviderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_RelationshipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolLevelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServicesProvidedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServiceStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceMonitoringRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceVisitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SubDomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_CHWIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_NeedsAssessmentIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_OVCIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_ParentIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_SSVIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserCBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserRightsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UsersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.VersionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.biodataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHVbyDISTRICTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCQueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needa_Analysis_FinalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needs_AnalysisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_benefits_summaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_BirthCertsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CHVNamesbyCBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Client_HivStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CSIPerformanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_domain_servicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Domain_SubdomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_she_needs_per_districtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_shelter_per_monthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_econ_edu_shelterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_EducationalSupportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_F1A_Priority_NeedsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_food_per_HH_needsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_GuardianDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HCBCClientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_needs_per_districtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_per_monthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_referalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_food_permonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_fooddomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Mother_of_AllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_permonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_peryearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVC_HIVStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCBioDataDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCbySexandDOBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCCountbyCBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCExitedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCIssuedBCertsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCNeedsAssessmentSupportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCRegisteredRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_ParentIDNumberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PEPFAR_GlobalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Protection_needsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_NeedsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_PermonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_RegisterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Sanitary_above9yrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_fatherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_guardianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_historyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_motherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SpecificServicesProvidedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SSM_SSVRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCBObyDistrictRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCountyBaselineRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_AddRootNodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_FetchOVCandParentNamesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_fetchspecificvisitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_PopulateOVCVisitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_SelectOVCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_AddRootNodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_FetchOVCandParentNamesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.rpt_schoolgoingovcsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SYNCOVCDATA_HQRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Validate_DurationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ARTStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.AuditTrailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CauseofDeathRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHWRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_GurdianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Client_ParentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientCriteriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientdetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientLongitudinalDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClientTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ClustersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CoreServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CountyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DistrictRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.DomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EligibilityCriteriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.EmploymentTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.FacilitiesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GoalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.GurdianLongitudinalDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HidingReasonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HIVStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.NeedsAssessmentMainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ParentLongitudinalDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityListingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityMonitoringRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.PriorityNeedsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ProviderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.QueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.RelationshipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolLevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SchoolsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServicesProvidedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.ServiceStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceMonitoringRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.StatusAndServiceVisitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SubDomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tbl_monthsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.TblVulnerabilityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ARTStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_AuditTrailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CauseofDeathRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CHWRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientCriteriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientdetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_Clientdetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientLongitudinalDetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClientTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ClustersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_CoreServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DistrictRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_DomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_EmploymentTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_FacilitiesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_GoalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HidingReasonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_HIVStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_NeedsAssessmentMainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ParentDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityMonitoringRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_PriorityNeedsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ProviderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_RelationshipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolLevelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SchoolsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServicesProvidedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_ServiceStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceMonitoringRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_StatusAndServiceVisitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.temp_SubDomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_CHWIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_NeedsAssessmentIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_OVCIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_ParentIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.tempKeys_SSVIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserCBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UserRightsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.UsersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.VersionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.biodataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.CHVbyDISTRICTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCQueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needa_Analysis_FinalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Needs_AnalysisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_benefits_summaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_BirthCertsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CHVNamesbyCBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Client_HivStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_CSIPerformanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_domain_servicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Domain_SubdomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_she_needs_per_districtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_eco_edu_shelter_per_monthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_econ_edu_shelterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_EducationalSupportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_F1A_Priority_NeedsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Food_HH_ServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_food_per_HH_needsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_GuardianDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HCBCClientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_needs_per_districtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_per_monthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_health_referalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_food_permonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_HH_fooddomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Mother_of_AllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_permonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_needed_shelter_peryearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVC_HIVStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCBioDataDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCbySexandDOBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCCountbyCBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCExitedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCIssuedBCertsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCNeedsAssessmentSupportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCRegisteredRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_OVCServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_ParentIDNumberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PEPFAR_GlobalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Protection_needsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_NeedsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_PSS_PermonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_RegisterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_Sanitary_above9yrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_fatherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_guardianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_historyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_servicemonitoring_motherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SpecificServicesProvidedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vw_SSM_SSVRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCBObyDistrictRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.vwCountyBaselineRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_AddRootNodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_FetchOVCandParentNamesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_fetchspecificvisitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_PopulateOVCVisitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Form1A_SelectOVCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_AddRootNodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.HCBCForm1A_FetchOVCandParentNamesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.rpt_schoolgoingovcsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.SYNCOVCDATA_HQRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet.Validate_DurationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ARTStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.AuditTrailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CauseofDeathTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CBOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CHWTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Client_GurdianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Client_ParentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClientCriteriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClientdetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClientLongitudinalDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClientTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ClustersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CoreServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CountyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.DistrictTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.DomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.EligibilityCriteriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.EmploymentTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.FacilitiesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.GoalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.GurdianDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.GurdianLongitudinalDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.HidingReasonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.HIVStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.NeedsAssessmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.NeedsAssessmentMainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ParentDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ParentLongitudinalDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.PriorityListingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.PriorityMonitoringTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.PriorityNeedsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ProviderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.QueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.RelationshipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.SchoolLevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.SchoolsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ServicesProvidedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.ServiceStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.StatusAndServiceMonitoringTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.StatusAndServiceVisitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.SubDomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tbl_monthsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TblVulnerabilityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ARTStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_AuditTrailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_CauseofDeathTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_CBOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_CHWTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClientCriteriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClientdetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_Clientdetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClientLongitudinalDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClientLongitudinalDetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClientTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ClustersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_CoreServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_DistrictTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_DomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_EmploymentTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_FacilitiesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_GoalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_HidingReasonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_HIVStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_NeedsAssessmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_NeedsAssessmentMainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ParentDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_PriorityMonitoringTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_PriorityNeedsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ProviderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_RelationshipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_SchoolLevelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_SchoolsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ServicesProvidedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_ServiceStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_StatusAndServiceMonitoringTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_StatusAndServiceVisitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.temp_SubDomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tempKeys_CHWIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tempKeys_NeedsAssessmentIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tempKeys_OVCIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tempKeys_ParentIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.tempKeys_SSVIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.UserCBOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.UserRightsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.UsersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.VersionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.biodataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.CHVbyDISTRICTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.HCBCQueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Needa_Analysis_FinalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Needs_AnalysisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_benefits_summaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_BirthCertsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_CHVNamesbyCBOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Client_HivStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_CSIPerformanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_domain_servicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Domain_SubdomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_eco_edu_she_needs_per_districtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_eco_edu_shelter_per_monthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_econ_edu_shelterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_EducationalSupportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_F1A_Priority_NeedsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Food_HH_ServedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Food_HH_ServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_food_per_HH_needsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_GuardianDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_HCBCClientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_health_needs_per_districtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_health_per_monthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_health_referalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_HH_food_permonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_HH_fooddomainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Mother_of_AllTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_needed_shelter_permonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_needed_shelter_peryearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVC_HIVStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCBioDataDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCbySexandDOBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCCountbyCBOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCExitedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCIssuedBCertsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCNeedsAssessmentSupportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCRegisteredTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_OVCServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_ParentIDNumberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_PEPFAR_GlobalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Protection_needsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_PSS_NeedsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_PSS_PermonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_RegisterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_Sanitary_above9yrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_servicemonitoring_fatherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_servicemonitoring_guardianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_servicemonitoring_historyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_servicemonitoring_motherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_SpecificServicesProvidedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vw_SSM_SSVTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vwCBObyDistrictTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.vwCountyBaselineTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Form1A_AddRootNodeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Form1A_FetchOVCandParentNamesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Form1A_fetchspecificvisitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Form1A_PopulateOVCVisitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Form1A_SelectOVCTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.HCBCForm1A_AddRootNodeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.HCBCForm1A_FetchOVCandParentNamesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.rpt_schoolgoingovcsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.SYNCOVCDATA_HQTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.Validate_DurationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(UpdaterTest.APHIAMAINDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(UpdaterTest.APHIAMAINDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(UpdaterTest.APHIAMAINDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.UpdateAll(UpdaterTest.APHIAMAINDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:UpdaterTest.APHIAMAINDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,66 @@
+Dim masterConnection As New SqlConnection
+    Public Sub New()
+        MyBase.New()
+
+        'This call is required by the Component Designer.
+        InitializeComponent()
+
+        'Add initialization code after the call to InitializeComponent
+
+    End Sub
+
+    Private Function GetSql(ByVal Name As String) As String
+        Try
+
+            ' Gets the current assembly.
+            Dim Asm As [Assembly] = [Assembly].GetExecutingAssembly()
+
+            ' Resources are named using a fully qualified name.
+            'Dim strm As Stream = Asm.GetManifestResourceStream(
+            'Asm.GetName().Name + "." + Name)
+            ' Dim strm As Stream
+            Dim cmd As New SqlCommand
+            Dim filename As String = "C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\CustomAction\CustomAction\script.sql"
+            Dim strm As Stream = File.Open(filename, FileMode.Open)
+            Dim reader As StreamReader = New StreamReader(strm)
+
+            ' Reads the contents of the embedded file.
+            Dim tableText As String
+            tableText = reader.ReadToEnd()
+            Return tableText
+
+
+
+        Catch ex As Exception
+            MsgBox("In GetSQL: " & ex.Message)
+            Throw ex
+        End Try
+    End Function
+
+    Private Sub ExecuteSql(ByVal databaseName As String, ByVal sql As String)
+        'Dim command As New SqlCommand(sql, masterConnection)
+
+        ' Initialize the connection, open it, and set it to the "master" database
+        'masterConnection.ConnectionString = My.Settings.masterConnectionString
+        'command.Connection.Open()
+
+        'Connect to the local, default instance of SQL Server.
+        Dim srv As Server
+        srv = New Server
+        'Define a Database object variable by supplying the server and the database name arguments in the constructor.
+        Dim db As Database
+        db = New Database(srv, databaseName)
+        
+        'Reference the database
+        db = srv.Databases(databaseName)
+
+
+        Try
+            'command.ExecuteNonQuery()
+            db.ExecuteNonQuery(sql)
+
+        Finally
+            ' Closing the connection should be done in a Finally block
+            'command.Connection.Close()
+        End Try
+    End Sub

@@ -1,0 +1,14 @@
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\UpdaterTest.exe
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\UpdaterTest.pdb
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\UpdaterTest.xml
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.Form1.resources
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.Resources.resources
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.vbproj.GenerateResource.Cache
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.exe
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.xml
+C:\Users\Ezekiel\documents\visual studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.pdb
+C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\Ionic.BZip2.dll
+C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\Ionic.Zip.dll
+C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\Ionic.BZip2.pdb
+C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\UpdaterTest\UpdaterTest\bin\Release\Ionic.BZip2.xml
+C:\Users\Ezekiel\Documents\Visual Studio 2010\Projects\UpdaterTest\UpdaterTest\obj\x86\Release\UpdaterTest.vbprojResolveAssemblyReference.cache
